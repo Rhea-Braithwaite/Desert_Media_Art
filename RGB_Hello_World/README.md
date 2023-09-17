@@ -27,7 +27,6 @@ A part of the code that I really enjoyed writing is where the relationship begin
 `
     brightPink_time = 5
     red_time = 1
-    
     #Loop as the relationship becomes unhealthy
     #Bright Pink becomes shorter and Red becomes longer
     for i in range (0, 3):
